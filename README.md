@@ -1,8 +1,7 @@
-# Dono
+# Dono (Awarded Second Place at Hack-A-Wish 2019)
+
 
 Made by Rajiv Anisetti, Sanketh Hegde, Raymond Kwan, Kareem Nosseir, and Ritesh Pendekanti.
-
-###  Awarded Second Place at Hack-A-Wish 2019
 
 
 ## About
